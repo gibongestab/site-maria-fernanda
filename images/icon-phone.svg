@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3004.653 10848.011 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7db6e1;
+      }
+    </style>
+  </defs>
+  <g id="icon-phone" transform="translate(-3004.653 10848.011)">
+    <g id="call" transform="translate(0 0)">
+      <path id="Path_6587" data-name="Path 6587" class="cls-1" d="M3.6,7.8a15.568,15.568,0,0,0,6.6,6.6l2.2-2.2a.8.8,0,0,1,1-.2,10.46,10.46,0,0,0,3.6.6.945.945,0,0,1,1,1V17a.945.945,0,0,1-1,1A16.986,16.986,0,0,1,0,1,.945.945,0,0,1,1,0H4.5a.945.945,0,0,1,1,1,11.325,11.325,0,0,0,.6,3.6,1.232,1.232,0,0,1-.2,1Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

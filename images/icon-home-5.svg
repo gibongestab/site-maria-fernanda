@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2887.598 7063 41.196 74.018">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icon-home-5" transform="translate(-3909 5345)">
+    <path id="Path_6584" data-name="Path 6584" class="cls-1" d="M65.292,87.009A5.312,5.312,0,0,0,70.6,81.7V18.3a5.312,5.312,0,0,0-5.306-5.306H34.708A5.312,5.312,0,0,0,29.4,18.3V81.7a5.312,5.312,0,0,0,5.306,5.306ZM31.4,24.195H68.6V75.239H31.4Zm3.306-9.2H65.293A3.31,3.31,0,0,1,68.6,18.3v3.9H31.4V18.3A3.31,3.31,0,0,1,34.708,14.991ZM31.4,81.7V77.239H68.6V81.7a3.31,3.31,0,0,1-3.306,3.306H34.708A3.31,3.31,0,0,1,31.4,81.7Z" transform="translate(992 1705.009)"/>
+    <circle id="Ellipse_86" data-name="Ellipse 86" class="cls-1" cx="2.517" cy="2.517" r="2.517" transform="translate(1039.483 1783.553)"/>
+    <path id="Path_6585" data-name="Path 6585" class="cls-1" d="M46.015,19.594h7.969a1,1,0,0,0,0-2H46.015a1,1,0,0,0,0,2Z" transform="translate(992 1705.009)"/>
+  </g>
+</svg>

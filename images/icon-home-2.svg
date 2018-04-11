@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3515 7065 38.569 82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="icon-home-2" transform="translate(-4112.715 5348)">
+    <path id="Path_6572" data-name="Path 6572" class="cls-1" d="M59.141,19.142A9.141,9.141,0,1,1,50,10,9.14,9.14,0,0,1,59.141,19.142Z" transform="translate(567 1708)"/>
+    <path id="Path_6573" data-name="Path 6573" class="cls-1" d="M36.286,62.572l4.573-10.285v0Z" transform="translate(567 1708)"/>
+    <path id="Path_6574" data-name="Path 6574" class="cls-1" d="M63.715,62.572,59.141,52.287v0Z" transform="translate(567 1708)"/>
+    <path id="Path_6575" data-name="Path 6575" class="cls-1" d="M36.286,62.572A4.572,4.572,0,0,1,31.715,58V39.713a9.144,9.144,0,0,1,9.144-9.142,12.864,12.864,0,0,0,4.2,2.8,12.881,12.881,0,0,0,9.89,0,12.834,12.834,0,0,0,4.195-2.8,9.144,9.144,0,0,1,9.144,9.142V58a4.571,4.571,0,0,1-4.569,4.572h0l4.569,10.284H59.14V85.43a4.569,4.569,0,1,1-9.137,0v0a4.572,4.572,0,0,1-9.144,0V72.856H31.715Z" transform="translate(567 1708)"/>
+  </g>
+</svg>
